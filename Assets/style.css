@@ -1,17 +1,8 @@
-
-header {
-    background-color: rgb(94, 10, 133);
-    width: 85%;
-    color: rgb(226, 146, 55);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 100px;
-}
-
 body {
 	text-align: center;
 	font-size: 30px;
     color: rgb(98, 8, 116);
-    background-color: blueviolet;
+    background-color: rgb(50, 12, 87);
 }
 
 html, body {
